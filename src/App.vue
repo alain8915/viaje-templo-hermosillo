@@ -106,7 +106,7 @@ function closeImage() { modal.value = { src:'', alt:'' } }
       <SectionTitle kicker="Antes de salir" title="Preparación" />
       <div class="row g-3">
         <div v-for="item in [
-          ['bi-tree','Nombres familiares','Llevar nombres preparados para las ordenanzas del templo.'],
+          ['bi-tree','Nombres de familiares','Llevar nombres preparados para las ordenanzas del templo.'],
           ['bi-person-standing-dress','Ropa','Ropa apropiada para el templo y lo necesario para hospedaje y traslado.'],
           ['bi-droplet','Hidratación','Llevar agua y seguir las indicaciones durante traslados y actividades.'],
           ['bi-circle','Pulsera','Usar el color asignado: azul, verde, naranja o morado.']
