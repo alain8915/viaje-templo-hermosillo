@@ -30,7 +30,7 @@ export const groups = [
     friday: '5:00 p. m.',
     saturday: '9:00 a. m.',
     poster: '/grupo-3.png',
-    members: ['Seth Hernandez','Danna Regina Rocha','Andrea Leyva Castro','Abinadi Morales','Melany Maylin López','Brandon Valdez','Andrea Ochoa','Sofía Pérez','Emiliano Camacho'],
+    members: ['Seth Hernandez','Danna Regina Rocha','Andrea Leyva Castro','Abinadi Morales','Melany Maylin López','Brandon Valdez','Andrea Ochoa','Sofía Pérez','Emiliano Camacho','Ailany Ortiz'],
   },
   {
     id: 4,
