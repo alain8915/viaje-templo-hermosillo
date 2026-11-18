@@ -41,7 +41,7 @@ export const groups = [
     friday: '7:00 p. m.',
     saturday: '7:00 a. m.',
     poster: '/grupo-4.png',
-    members: ['Romina Astorga','Elisa Leyva Castro','Luz María Pérez Cabrales','Luna Arauz','Ana Lucía','Meredith Peña Zavala','Valeria Rodríguez','Johan Gil','Luis Camargo'],
+    members: ['Romina Astorga','Elisa Leyva Castro','Luz María Pérez Cabrales','Luna Arauz','Ana Lucía','Meredith Peña Zavala','Valeria Rodríguez','Johan Gil','Luis Antonio Camargo', 'Benjamin Ojeda'],
   },
 ]
 
